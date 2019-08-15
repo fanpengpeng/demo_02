@@ -1,0 +1,25 @@
+{
+  "name": "demo_02",
+  "version": "1.0.0",
+  "description": "learn git options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanpengpeng/demo_02.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "FFelix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanpengpeng/demo_02/issues"
+  },
+  "homepage": "https://github.com/fanpengpeng/demo_02#readme",
+  "dependencies": {
+    "eslint": "^6.1.0"
+  }
+}
