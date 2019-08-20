@@ -1,2 +1,4 @@
 #配置 node_modules 不提交
 node_modules/
+
+.idea/
